@@ -1,0 +1,1 @@
+Desafio feito em JavaScript, usando node.Js (versão 14.17.4) para a execução dos testes.
